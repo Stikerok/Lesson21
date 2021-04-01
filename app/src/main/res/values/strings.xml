@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson21</string>
+    <string name="action_one">action_one</string>
+    <string name="action_two">action_two</string>
+</resources>
